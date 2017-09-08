@@ -1,4 +1,4 @@
-##PicoDst QA Maker
+## PicoDst QA Maker
 RHIC year 2014 Run, with Heavy Flavor Tracker
   
 ## Declaration
@@ -13,8 +13,7 @@ This one is only for your reference.
 
 Another tips. Since the StPicoDstMaker changes for each data set, remember change them accordingly.
 
-##Run14 PicoDst QA plots (run/daily/overAll)
-
+## Run14 PicoDst QA plots (run/daily/overAll)
 http://portal.nersc.gov/project/star/xgn1992/Run14_AuAu200GeV_PicoQA_reProduction/
 
 - - -
