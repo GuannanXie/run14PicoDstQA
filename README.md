@@ -5,7 +5,14 @@ RHIC year 2014 Run, with Heavy Flavor Tracker
 This code was original inherit form next location:
 cvs co offline/users/dongx/pico/QA
 
+This code only works for run14 SL16d data set.
 - - -
-###About this code:  
+###How to run this code:  
 ```bash
+starver SL16d
+cons
+
+root4star -b -l -q macro/qaPicoDst.C
+
+root4star -b -l -q macro/makeQaPlotsOnPdf.C
 ```
