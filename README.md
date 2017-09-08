@@ -12,6 +12,10 @@ If you want to use the macro for other data set, you are encouraged to rely on t
 This one is only for your reference.
 
 Another tips. Since the StPicoDstMaker changes for each data set, remember change them accordingly.
+
+Run14 PicoDst QA plots can be found below: 
+
+http://portal.nersc.gov/project/star/xgn1992/Run14_AuAu200GeV_PicoQA_reProduction/
 - - -
 ###How to run this code:  
 ```bash
