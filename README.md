@@ -7,9 +7,11 @@ cvs co offline/users/dongx/pico/QA
 
 This code only works for run14 SL16d data set.
 
-If you want to use the code for other data set, you are encouraged to rely on the original version which mentioned above. This one is only for you reference.
+If you want to use the macro for other data set, you are encouraged to rely on the original version which mentioned above from CVS. 
 
-Another tips. Since the StPicoDst Maker changes for each data set, remember change them accordingly.
+This one is only for your reference.
+
+Another tips. Since the StPicoDstMaker changes for each data set, remember change them accordingly.
 - - -
 ###How to run this code:  
 ```bash
